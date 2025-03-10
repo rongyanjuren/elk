@@ -258,6 +258,12 @@ docker update logstash --restart=always
    </root>
 </configuration>
 ```
-
-
-
+# 在kibana中查看日志
+## 1、设置索引模式
+![设置索引模式.jpg](images/%E8%AE%BE%E7%BD%AE%E7%B4%A2%E5%BC%95%E6%A8%A1%E5%BC%8F.jpg)
+## 2、此处选择想要的index
+![此处选择想要的index.jpg](images/%E6%AD%A4%E5%A4%84%E9%80%89%E6%8B%A9%E6%83%B3%E8%A6%81%E7%9A%84index.jpg)
+## 3、选择时间筛选字段名称
+![选择时间筛选字段名称.jpg](images/%E9%80%89%E6%8B%A9%E6%97%B6%E9%97%B4%E7%AD%9B%E9%80%89%E5%AD%97%E6%AE%B5%E5%90%8D%E7%A7%B0.jpg)
+## 4、在此页面查找日志
+![在此页面查找日志.jpg](images/%E5%9C%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2%E6%9F%A5%E6%89%BE%E6%97%A5%E5%BF%97.jpg)
